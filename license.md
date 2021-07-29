@@ -1,24 +1,17 @@
 ---
-source-git-commit: 89ebe7991ce7b3d2434f42c13f0a7c553a99e316
+source-git-commit: 983a2d25194378cac89505130f5eea28b7cc67f5
 workflow-type: tm+mt
-translation-type: tm+mt
 source-wordcount: '170'
 ht-degree: 46%
 
 ---
 # MITライセンス
 
-© Copyright 2018Adobe。 All rights reserved.
+© Copyright 2021Adobe。 All rights reserved.
 
-本書は，複製を受け取った者に対して無償で許可する
-(本ソフトウェアと関連ドキュメントファイル（「ソフトウェア」）)が
-制限なしで、権利を制限しないものを含む
-使用、コピー、変更、結合、公開、配布、サブライセンス、販売
-本ソフトウェアの複製物、および本ソフトウェアが所属する人を許可する
-次の条件に従って、それを行うための家具が付属している。
+本ソフトウェアの使用、複製、変更、結合、発行、配布、サブライセンス、販売の権利を含め、本ソフトウェアの複製物を入手する者に対し、以下の条件に従って、本ソフトウェアを無制限に処理する許可を無償で付与します。
 
-上記の著作権表示及びこの許可通知は，すべての
-本ソフトウェアのコピーまたは大部分。
+上記の著作権表示とこの許可表示は、本ソフトウェアのすべての複製または相当部分に含まれるものとします。
 
 THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
