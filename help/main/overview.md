@@ -15,7 +15,7 @@ ht-degree: 30%
 
 # Advertising Cloud チュートリアル
 
-[!DNL Advertising Cloud]Tutorialsサイトへようこそ。 これらのチュートリアルを[ドキュメント](https://helpx.adobe.com/support/advertising-cloud.html)と共に使用すると、Adobe Advertising Cloudを使用して顧客インサイトを得る方法を以前よりも早く理解できます。
+へようこそ [!DNL Advertising Cloud] Tutorialsサイト。 これらのチュートリアルを [ドキュメント](https://helpx.adobe.com/support/advertising-cloud.html) を使用すると、Adobe Advertising Cloudを使用して顧客インサイトを以前よりも迅速に得る方法に関する理解を深めることができます。
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content

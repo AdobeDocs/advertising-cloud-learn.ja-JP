@@ -9,8 +9,8 @@ ht-degree: 0%
 
 ---
 
-# Advertising Cloudマーケティングチャネル(A4AdC)を使用したレポート
+# Advertising Cloudマーケティングチャネル (A4AdC) を使用したレポート
 
-Advertising CloudのビュースルーおよびクリックスルーエントリデータがAdobe Analytics [!UICONTROL Marketing Channels]と連携する仕組みについて説明します。
+Advertising CloudのビュースルーおよびクリックスルーエントリデータがAdobe Analyticsと連携する仕組みを説明します [!UICONTROL Marketing Channels].
 
 >[!VIDEO](https://video.tv.adobe.com/v/33502)
