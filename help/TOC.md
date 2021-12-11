@@ -3,7 +3,7 @@ user-guide-title: Adobe Advertising Cloud チュートリアル
 user-guide-description: Adobe Advertising Cloud のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Advertising Cloud チュートリアル
 solution: Advertising Cloud
-source-git-commit: 3814915ff4ab6709c480812478cb7719f3004a84
+source-git-commit: 0821a090afa1799333ca6ef99438667dfdf4b0ee
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 18%
@@ -15,7 +15,7 @@ ht-degree: 18%
 
 + [概要](overview.md)
 + DSP {#dsp}
-   + [Advertising Cloud DSPの概要](/help/dsp/overview.md)
+   + [Advertising Cloud DSPの概要](/help/dsp/intro.md)
    + [アカウント構造とユーザーインターフェイス](/help/dsp/ui.md)
    + [サードパーティの広告タグの一括アップロード方法](/help/dsp/bulk-upload-third-party-ad-tags.md)
    + [一括編集ツールを使用した配置の編集方法](/help/dsp/bulk-edit-placement-tools.md)
