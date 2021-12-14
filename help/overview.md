@@ -1,21 +1,23 @@
 ---
 title: Advertising Cloud チュートリアル
 description: Adobe Advertising Cloud のビデオとチュートリアルのコレクションです。
-audience: all
-activity: use
-doc-type: overview
-team: Technical Marketing
 exl-id: aa9d9ff5-115f-44c6-b23d-3fc034904697
-source-git-commit: e601aa5b01b481267e4c398b5e14bffa8412dfff
+source-git-commit: 43ddfe0e493296bd8e8cd415627a38d78fb55f9c
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 30%
+source-wordcount: '63'
+ht-degree: 25%
 
 ---
 
 # Advertising Cloud チュートリアル
 
-ようこそ [!DNL Advertising Cloud] Tutorialsサイト。 これらのチュートリアルを [ドキュメント](https://experienceleague.adobe.com/docs/advertising-cloud.html) を使用すると、Adobe Advertising Cloudを使用して顧客インサイトを以前よりも迅速に得る方法をより深く理解できます。
+これらのビデオチュートリアルと [ドキュメント](https://experienceleague.adobe.com/docs/advertising-cloud.html)は、Advertising Cloudを使用して、以前よりも迅速に顧客インサイトを得るのに役立ちます。
+
+次のビデオを視聴できます。
+
+* Advertising Cloud DSP
+
+* Advertising Cloud DSPおよびAdvertising Cloud Searchと他のAdobe Experience Cloud製品およびサービスとの統合
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content
