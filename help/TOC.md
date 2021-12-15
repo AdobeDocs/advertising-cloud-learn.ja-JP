@@ -3,10 +3,10 @@ user-guide-title: Adobe Advertising Cloud チュートリアル
 user-guide-description: Adobe Advertising Cloud のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Advertising Cloud チュートリアル
 solution: Advertising Cloud
-source-git-commit: 02b8109c14e3b42ab7c6149009e6408f8478e251
+source-git-commit: 1a5d4f41f6ef3e297fea43c6557513e7f5cfc900
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '110'
+ht-degree: 19%
 
 ---
 
@@ -20,16 +20,16 @@ ht-degree: 0%
    + [パッケージの作成方法](/help/dsp/package-create.md)
    + [一括編集ツールを使用した配置の編集方法](/help/dsp/bulk-edit-placement-tools.md)
    + [サードパーティの広告タグの一括アップロード方法](/help/dsp/bulk-upload-third-party-ad-tags.md)
-+ Advertising Cloud向け Analytics {#analytics}
-   + [A4AdC の概要](/help/integrations/analytics/intro-a4adc.md)
++ [!DNL Analytics for Advertising Cloud] {#analytics}
+   + [の概要 [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/intro-a4adc.md)
    + [Advertising Cloudサイト入口レポートの作成](/help/integrations/analytics/analytics-site-entry-a4adc.md)
-   + [アクティベーションおよびレポート用の Analytics セグメントの作成](/help/integrations/analytics/analytics-segments-a4adc.md)
-   + [Advertising CloudデータのレポートのためのAnalysis Workspaceの概要](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
+   + [作成 [!DNL Analytics] アクティベーションおよびレポート用のセグメント](/help/integrations/analytics/analytics-segments-a4adc.md)
+   + [の概要 [!DNL Analysis Workspace] (Advertising Cloud Data のレポート用 )](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
    + [Advertising Cloudマーケティングチャネルを使用したレポート](/help/integrations/analytics/analytics-reporting-a4adc.md)
-   + [Advertising Cloud Activation およびレポート用の Analytics プロファイルの作成](/help/integrations/analytics/analytics-profiles-a4adc.md)
+   + [作成 [!DNL Analytics] Advertising Cloud Activation とレポートのプロファイル](/help/integrations/analytics/analytics-profiles-a4adc.md)
    + [Adobe Analyticsを使用した、開始前キャンペーン分析の作成](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [Adobe AnalyticsでのAdvertising Cloudダッシュボードの作成](/help/integrations/analytics/analytics-dashboards-a4adc.md)
-   + [Advertising Cloudデータを使用した Analytics カスタム指標の作成](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
+   + [作成 [!DNL Analytics] Advertising Cloudデータを使用したカスタム指標](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
 <!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)

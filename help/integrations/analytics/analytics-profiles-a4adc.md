@@ -1,15 +1,17 @@
 ---
-title: Advertising Cloud Activation およびレポート用の Analytics プロファイルの作成
+title: 作成 [!DNL Analytics] Advertising Cloud Activation とレポートのプロファイル
 description: Adobe Analyticsを使用して、Advertising Cloudリマーケティング用の堅牢なサイトリターゲティングプールを作成する方法を説明します。
 exl-id: e367435c-238a-4025-a160-ff72d45ea741
-source-git-commit: 0e31992243519919883a1376b4cbaff1f2fce8ac
+source-git-commit: 1a5d4f41f6ef3e297fea43c6557513e7f5cfc900
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# Advertising Cloud Activation and Reporting 用の Analytics プロファイルの作成 (A4AdC)
+# 作成 [!DNL Analytics] Advertising Cloud Activation とレポートのプロファイル
+
+*次を持つ広告主[!DNL Adobe Analytics for Advertising Cloud]*
 
 Adobe Analyticsを使用して、Advertising Cloudリマーケティング用の堅牢なサイトリターゲティングプールを作成する方法を説明します。
 
