@@ -1,17 +1,15 @@
 ---
-title: Advertising Cloud DSP用の配置の作成方法
-description: プレースメントの作成方法を説明します。
-source-git-commit: bc4c9b3852211e25ef1981c38d03e3bb47c60964
+title: Advertising Cloud DSP用の標準表示配置を作成する方法
+description: 標準の表示配置を作成する方法を説明します。
+source-git-commit: ebceb6cdd931dfb799d2b54f3ab5be84e227e7dd
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 配置の作成方法
+# 標準の表示配置を作成する方法
 
-Advertising Cloud DSPキャンペーン用の配置を作成する方法を説明します。
+Advertising Cloud DSPキャンペーン用の標準の表示場所を作成する方法を説明します。
 
-<!--
->[!VIDEO]()
--->
+>[!VIDEO](https://video.tv.adobe.com/v/340454)
