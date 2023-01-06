@@ -1,61 +1,60 @@
 ---
-source-git-commit: 497eeb447afc75863a00a807191be5cc6d058f74
+source-git-commit: 962a74c18225e35faf1f984f41ea5ee5211c381a
 workflow-type: tm+mt
-translation-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '424'
 ht-degree: 6%
 
 ---
-# Contribute記事
+# 記事の投稿
 
-ドキュメントチーム以外のAdobe社員の方々から、コミュニティからの寄付を歓迎します。
+コミュニティやドキュメントチーム以外のAdobe従業員からの投稿を歓迎します。
 
-## Adobeオープンソースコード
+## Adobeオープンソース行動規範
 
 このプロジェクトでは、[アドビオープンソース行動規範](code-of-conduct.md) または [.NET Foundation 行動規範](https://dotnetfoundation.org/code-of-conduct)を採用しています。詳しくは、[投稿](contributing.md)の記事を参照してください。
 
-## Adobeコンテンツへの貢献について
+## Adobeコンテンツへの投稿について
 
-『[Adobeドキュメント寄稿者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)』を参照してください。
+詳しくは、 [Adobeドキュメント寄稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
-貢献の方法は、自分が何者であるか、また、貢献したい変更の種類によって異なります。
+投稿方法は、投稿者と、投稿したい変更の種類に応じて異なります。
 
-### 小さな変更
+### 軽微な変更
 
-心の良さからマイナーアップデートを行う場合は、記事にアクセスし、記事のGitHubソースに移動する記事の&#x200B;**編集**&#x200B;リンクをクリックします。 次に、GitHub UIを使用して更新を行います。 詳しくは、一般的な[Adobeドキュメント寄稿者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)を参照してください。
+善意でマイナーな更新を行う場合は、記事にアクセスし、 **編集** 記事の GitHub ソースに移動する記事内のリンク。 その後、GitHub UI を使用して更新をおこないます。 一般 [Adobeドキュメント寄稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) を参照してください。
 
-このレポートのドキュメントやコード例に関して提出する小さな修正や説明は、Adobe利用条件でカバーされます。
+このリポジトリのドキュメントおよびコード例について送信したマイナーな修正や説明は、Adobe利用条件の適用を受けます。
 
-### コミュニティメンバーからの主な変更または新しい記事
+### コミュニティメンバーによる大きな変更または新しい記事
 
-Adobeコミュニティに属していて、新しい記事を作成したり、大きな変更を送信したりする場合は、Gitリポジトリの「問題」タブを使用して、ドキュメントチームとの会話を開始に送信してください。 計画に同意したら、公共のリポジトリと私的なリポジトリの組み合わせを通して新しいコンテンツを持ち込むのに役立つよう、従業員と協力する必要があります。
+Adobeコミュニティのメンバーが新しい記事を作成したり、大きな変更を投稿したりする場合は、Git リポジトリの「Issues」タブを使用して、ドキュメントチームとの会話を開始するための問題を送信してください。 計画に同意したら、公開および非公開リポジトリでの作業を組み合わせて新しいコンテンツを取り込むために、従業員と協力する必要があります。
 
 <!--
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
 -->
 
-### Adobeの従業員からの主な変更
+### 従業員からの大きな変更Adobe
 
-Adobe Experience Cloudソリューションのテクニカルライター、プログラムマネージャ、または製品チームの開発者で、お客様が技術記事の提供や作成を行う場合は、`https://git.corp.adobe.com/AdobeDocs`のプライベートリポジトリを使用する必要があります。
+Adobe Experience Cloudソリューションの製品チーム、プログラムマネージャーまたは開発者で、技術記事の投稿や作成が職務となっている場合は、次のプライベートリポジトリを使用する必要があります。 `https://git.corp.adobe.com/AdobeDocs`.
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
 ## ツールとセットアップ
 
-コミュニティの寄稿者は、基本的な編集にGitHub UIを使用したり、レポのフォークを使用して大きな貢献を行ったりできます。
+コミュニティの投稿者は、GitHub UI を使用して基本的な編集をおこなったり、リポジトリをフォークして大きな貢献をすることができます。
 
-詳しくは、『[Adobeドキュメント寄稿者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)』を参照してください。
+詳しくは、 [Adobeドキュメント寄稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) 」を参照してください。
 
-## マークダウンを使用してトピックをフォーマットする方法
+## Markdown を使用してトピックをフォーマットする方法
 
-このリポジトリ内のすべての記事は、GitHubフレーバー付きのマークダウンを使用しています。 マークダウンに詳しくない場合は、次を参照してください。
+このリポジトリ内の記事はすべて、GitHub 固有の Markdown を使用しています。 Markdown に詳しくない場合は、以下を参照してください。
 
-* [マークダウンの基本](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
-* [印刷可能なMarkDownチートシート](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [Markdown の基本](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
+* [印刷可能な Markdown の早見表](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## ラベル
 
-パブリック・リポジトリでは、プル・リクエストのワークフローを管理し、プル・リクエストの状況を把握できるように、プル・リクエストの自動ラベルが割り当てられます。
+公開リポジトリでは、プルリクエストに自動ラベルが割り当てられ、プルリクエストのワークフローを管理したり、プルリクエストの処理状況を知らせたりできます。
 
-* **変更の作成者への送信**:作成者は保留中のプル要求を通知されました。
-* **ready-to-merge**:引き出し要求レビューチームによるレビューの準備が整いました。
+* **変更が作成者に送信されました**:保留中のプル要求について作成者に通知されました。
+* **ready-to-merge**:プルリクエストレビューチームによるレビューの準備が整いました。
