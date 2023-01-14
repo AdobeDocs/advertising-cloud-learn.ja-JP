@@ -1,12 +1,12 @@
 ---
-source-git-commit: 3c77ea289a25c8ad22f32bd37eedd7b243809505
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '24'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-# Advertising Cloud DSPTutorials
+# Adobe広告DSPTutorials
 
-これは、Advertising Cloud DSPに関するビデオページのフォルダーです。
+これは、DSPに関するビデオページのフォルダーです。
 
 **注意：このページは、お客様向けドキュメントには公開されていません。**

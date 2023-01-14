@@ -1,18 +1,18 @@
 ---
-title: Adobe AnalyticsでのAdvertising Cloudダッシュボードの作成
-description: ライブキャンペーン監視用のAdvertising Cloudダッシュボードを作成する方法を説明します
+title: Adobe AnalyticsでのAdobe広告ダッシュボードの作成
+description: ライブキャンペーン監視用のAdobe広告ダッシュボードを作成する方法を説明します
 exl-id: ec90c659-4cbc-4be7-9478-269a21c98b98
-source-git-commit: 1a5d4f41f6ef3e297fea43c6557513e7f5cfc900
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Adobe AnalyticsでのAdvertising Cloudダッシュボードの作成
+# Adobe AnalyticsでのAdobe広告ダッシュボードの作成
 
-*次を持つ広告主[!DNL Adobe Analytics for Advertising Cloud]*
+*次を持つ広告主[!DNL Adobe Analytics for Adobe Advertising]*
 
-ライブキャンペーン監視用のAdvertising Cloudダッシュボードを作成する方法を説明します。
+ライブキャンペーン監視用のAdobe広告ダッシュボードを作成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33922)

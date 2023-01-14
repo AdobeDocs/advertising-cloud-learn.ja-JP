@@ -1,16 +1,16 @@
 ---
-title: Advertising Cloud DSPの配置ターゲティング機能
+title: DSPのプレースメントターゲティング機能
 description: 配置の様々なターゲティングオプションについて説明します。
-source-git-commit: bc4c9b3852211e25ef1981c38d03e3bb47c60964
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '27'
 ht-degree: 0%
 
 ---
 
 # 配置ターゲティング機能
 
-Advertising Cloud DSP配置の様々なターゲティングオプションについて説明します。
+DSP配置の様々なターゲティングオプションについて説明します。
 
 <!--
 >[!VIDEO]()
