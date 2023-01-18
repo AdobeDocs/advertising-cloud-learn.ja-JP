@@ -1,10 +1,9 @@
 ---
 title: DSPアカウント構造とユーザーインターフェイス
 description: DSPアカウントの構造とユーザーインターフェイスについて説明します。
-exl-id: c7786a04-a0ab-4ae6-8d5c-da68713f18d9
-source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
+source-git-commit: 3ea5208bb5cc560a1563cfd9b9647462560d7e67
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

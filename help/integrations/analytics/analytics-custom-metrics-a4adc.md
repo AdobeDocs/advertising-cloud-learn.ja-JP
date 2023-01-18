@@ -1,8 +1,7 @@
 ---
 title: 作成 [!DNL Analytics] カスタム指標とAdobe広告データ
 description: Adobe Analytics内でAdobe広告データを使用する場合に作成する便利なカスタム指標について説明します。
-exl-id: 56077529-443d-4285-9238-13b07b26ad08
-source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
+source-git-commit: 3ea5208bb5cc560a1563cfd9b9647462560d7e67
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
